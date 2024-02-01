@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">Foods App</string>
+    <string name="forgot_password">Forgot\nPassword?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="remember_now">Remember now?</string>
+    <string name="login_here">Login Here</string>
+    <string name="login_to_find_best_food">Login to\nfind the best food</string>
+    <string name="need_help">Need help?</string>
+    <string name="dont_share_info">Please provide your email to reset your password,Please don\'t share ant data to other people</string>
+    <string name="forgot_pwd">Forgot password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up_fb">Sign up with facebook</string>
+    <string name="dont_have_acc">Don\'t have an account?</string>
+    <string name="register">Register</string>
+    <string name="register_new_acc">Register\nnew account</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone">Phone</string>
+    <string name="login">Login</string>
+    <string name="verification">Verification</string>
+    <string name="otp_sent_msg">We have sent code verification to your\nmobile phone number ***915</string>
+    <string name="dint_receive_code">Didn\'t received code?</string>
+    <string name="resend">Re-Send</string>
+
+    <!--Select Fav Food-->
+    <string name="fav_food">What is your\nFavourite food?</string>
+    <string name="fav_flavour">What is your\nFavourite Flavour?</string>
+    <string name="food_style">What is your\nFood Style?</string>
+    <string name="japanese_food">Japanese Food</string>
+    <string name="japanese_food_desc">Eat with the fresh food from Japan.</string>
+    <string name="american_food">American Food</string>
+    <string name="american_food_desc">Keep healthy with the vegetables food.</string>
+    <string name="italian_food">Italian Food</string>
+    <string name="italian_food_desc">Make your day always sweet.</string>
+    <string name="indonesian_food">Indonesian Food</string>
+    <string name="indonesian_food_desc">Try variety of typical Indonesian food</string>
+    <string name="spicy_food">Spicy Food</string>
+    <string name="spicy_food_desc">Burn your day with spicy delicious food.</string>
+    <string name="tasteful_food">Tasteful Food</string>
+    <string name="tasteful_food_desc">Fill your lunch with various flavours.</string>
+    <string name="sweet_food">Sweet Food</string>
+    <string name="sweet_food_desc">Make your day always sweet.</string>
+    <string name="any_food">Any Food</string>
+    <string name="any_food_desc">Try a variety of typical food in the world.</string>
+    <string name="vegan_food">Vegan</string>
+    <string name="vegan_food_desc">Stay healthy with unique vegan menu.</string>
+    <string name="vegetarian_food">Vegetarian</string>
+    <string name="vegetarian_food_desc">We recommend the best food for you.</string>
+    <string name="meat_lover">Meat Lover</string>
+    <string name="meat_lover_desc">Meat lover gonna love the special resto.</string>
+    <string name="random_txt">Random</string>
+    <string name="random_txt_desc">Try a variety of typical food in the world</string>
+    <string name="skip_now">Skip for now</string>
+    <string name="next">Next</string>
+    <string name="ready_to_eat">Yeay! Ready to eat\neverything?</string>
+    <string name="find_food_near">Find food near you</string>
+    <string name="submit">Submit</string>
+
+    <!--Welcome Screen-->
+    <string name="back">Back</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_txt_01">Welcome to the\nfoodes.</string>
+    <string name="welcome_txt_02">We suggest the\nbest food for you</string>
+    <string name="welcome_txt_03">Ready for looking\ndelicious food?</string>
+
+    <!--ProfileScreen-->
+    <string name="profile">Profile</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="location">Location</string>
+    <string name="payment">Payment</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="information">Information</string>
+    <string name="security">Security</string>
+    <string name="notification">Notification</string>
+    <string name="discount_notification">Discount Notification</string>
+    <!--Order completed-->
+    <string name="back_to_home">Back to home</string>
+    <string name="track_your_order">Track your order</string>
+    <string name="your_order">Your order</string>
+    <string name="order_on_the_way">Yeay! Your order is\n on the way</string>
+    <!--Add New Address-->
+    <string name="add_new_address">Add New Address</string>
+    <string name="address_txt">Address</string>
+    <string name="add_address">Add Address</string>
+    <string name="name_txt">Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="add_pin_point">Add pin point</string>
+    <string name="enter_your_phone_number">Enter phone number</string>
+    <string name="done_txt">Done</string>
+    <string name="forgot_pwd_error_msg">Please provide valid email to reset your password.Please don\'t share any data to other people</string>
+
+    <string name="checkout_order">Checkout Order</string>
+    <string name="select_address">Select Address</string>
+    <string name="order_id">Order ID</string>
+    <string name="order_date">Order Date</string>
+    <string name="order_details">Order Details</string>
+    <string name="total_order">Total Order</string>
+    <string name="pay_now">Pay now</string>
+    <string name="free_delivery">Free delivery</string>
+    <string name="cashback_offer">Cashback 50% Black Friday</string>
+    <string name="coupons_txt">2 Coupons</string>
+    <string name="ready_to_checkout">Ready to checkout</string>
+    <string name="view_all_order">View all order</string>
+    <string name="order_on_the_way_txt">Order on the way</string>
+    <string name="suggestions_for_you">Suggestions for you (nearby)</string>
+    <string name="add_to_order">+  Add to order</string>
+    <string name="vegetarian_foodies">Vegetarian Foodies</string>
+    <string name="sweet_lovers">Sweet Lovers</string>
+    <string name="added_by">Added by</string>
+    <string name="order_txt">Order</string>
+    <string name="order_received">Order Received</string>
+    <string name="cooking_txt">Cooking</string>
+    <string name="cooking_desc_txt">Your food is under cooking!</string>
+    <string name="food_ready_txt">Ready</string>
+    <string name="food_ready_desc_txt">Your food is ready!</string>
+    <string name="delivery_txt">Delivery</string>
+    <string name="delivery_desc_txt">Your food is on the way, get now!</string>
+    <string name="order_tracking">Order Tracking</string>
+    <string name="order_from">Order From</string>
+    <string name="food_style_txt">Food Style</string>
+    <string name="logout_txt">Logout</string>
+</resources>
