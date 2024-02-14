@@ -32,8 +32,6 @@ import androidx.compose.ui.unit.sp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import com.composetoutiral.DevicePreviews
-import com.composetoutiral.FontScalePreviews
 import com.composetoutiral.R
 import com.composetoutiral.ui.theme.YellowColor
 import com.composetoutiral.viewmodel.WelcomeViewModel
@@ -105,8 +103,6 @@ fun WelcomeScreen03(
 }
 
 @Composable
-@FontScalePreviews
-@DevicePreviews
 @Preview
 fun PreviewWelcomeScreen03() {
     WelcomeScreen03(
